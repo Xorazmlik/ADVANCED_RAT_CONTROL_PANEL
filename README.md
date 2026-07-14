@@ -24,7 +24,7 @@ Dasturni ishga tushirish uchun kompyuteringizda **Python 3** o'rnatilgan bo'lish
 Terminal yoki CMD ni ochib quyidagi buyruqni kiriting:
 
 ```bash
-git clone https://github.com/VIPOS-testuser/ADVANCED_RAT_CONTROL_PANEL.git
+git clone https://github.com/Xorazmlik/ADVANCED_RAT_CONTROL_PANEL.git
 ```
 
 **2. Papkaga kiring:**
@@ -101,4 +101,4 @@ Ushbu dasturiy ta'minot (**ADVANCED RAT CONTROL PANEL**) muallifi (@Xorazmlik\_2
 -----
 
 **Author:** @Xorazmlik\_2004  
-**GitHub:** [VIPOS-testuser](https://www.google.com/search?q=https://github.com/VIPOS-testuser)
+**GitHub:** [Xorazmlik](https://www.google.com/search?q=https://github.com/Xorazmlik)
